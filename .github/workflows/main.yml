@@ -3,7 +3,7 @@ name: CI/CD for Node.js App
 on:
   push:
     branches:
-      - master
+      - master  # Or change to 'main' if you switch branches
 
 jobs:
   build-and-deploy:
