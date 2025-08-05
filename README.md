@@ -1,11 +1,11 @@
 # Task 1: Automate Code Deployment Using CI/CD Pipeline (GitHub Actions)
 
-## 📌 Objective
+## Objective
 Set up a Continuous Integration and Continuous Deployment (CI/CD) pipeline to build and deploy a sample Node.js web application using GitHub Actions.
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## Tools & Technologies Used
 
 - **GitHub** – Version control and CI/CD trigger source.
 - **GitHub Actions** – For automating the build and deployment process.
@@ -17,7 +17,7 @@ Set up a Continuous Integration and Continuous Deployment (CI/CD) pipeline to bu
 
 ---
 
-## 🔄 Pipeline Workflow Overview
+## Pipeline Workflow Overview
 
 1. **Trigger**  
    The pipeline is triggered on `push` to the `main` branch.
@@ -36,7 +36,7 @@ Set up a Continuous Integration and Continuous Deployment (CI/CD) pipeline to bu
 
 ---
 
-## ✅ Deliverables
+## Deliverables
 
 - GitHub Repository with:
   - A working `.github/workflows/main.yml` CI/CD pipeline file.
@@ -44,7 +44,7 @@ Set up a Continuous Integration and Continuous Deployment (CI/CD) pipeline to bu
 
 ---
 
-## 🚀 Outcome
+## Outcome
 
 Successfully implemented a CI/CD pipeline to:
 - Build a Docker image for the Node.js app
